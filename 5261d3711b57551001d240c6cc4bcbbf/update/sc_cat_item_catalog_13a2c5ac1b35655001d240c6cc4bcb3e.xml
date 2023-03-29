@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Test ATF">553009e81b35655001d240c6cc4bcbba</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:03:32</sys_created_on>
+        <sys_id>13a2c5ac1b35655001d240c6cc4bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Test ATF</sys_name>
+        <sys_package display_value="Wosys work" source="x_845124_wosys_wor">5261d3711b57551001d240c6cc4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wosys work">5261d3711b57551001d240c6cc4bcbbf</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_13a2c5ac1b35655001d240c6cc4bcb3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:03:32</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Validate that the answer match the following condition:
+Attach 1 ISEMPTY </description>
+        <display_name>Validate Variable Values (SP)</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>2</order>
+        <step_config display_value="Validate Variable Values (SP)">2c8882759f1303002528d4b4232e708a</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:06:33</sys_created_on>
+        <sys_id>a74345ec1b35655001d240c6cc4bcb68</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Validate Variable Values (SP)</sys_name>
+        <sys_package display_value="Wosys work" source="x_845124_wosys_wor">5261d3711b57551001d240c6cc4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wosys work">5261d3711b57551001d240c6cc4bcbbf</sys_scope>
+        <sys_update_name>sys_atf_step_a74345ec1b35655001d240c6cc4bcb68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 07:05:03</sys_updated_on>
+        <table/>
+        <test display_value="Test Atf RP">2dd1896c1b35655001d240c6cc4bcb0e</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=a74345ec1b35655001d240c6cc4bcb68"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>a74345ec1b35655001d240c6cc4bcb68</document_key>
+        <order>150</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:06:33</sys_created_on>
+        <sys_id>2b53c5ac1b35655001d240c6cc4bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:06:33</sys_updated_on>
+        <value/>
+        <variable display_value="Multi-row Variable Set">f2fac9d673142300688e0d573cf6a7e0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>a74345ec1b35655001d240c6cc4bcb68</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:06:33</sys_created_on>
+        <sys_id>2f53c5ac1b35655001d240c6cc4bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:06:33</sys_updated_on>
+        <value>553009e81b35655001d240c6cc4bcbba</value>
+        <variable display_value="Item">9b5b4e759f1303002528d4b4232e7026</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>a74345ec1b35655001d240c6cc4bcb68</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:06:33</sys_created_on>
+        <sys_id>ef53c5ac1b35655001d240c6cc4bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:06:33</sys_updated_on>
+        <value>IO:efa0412c1b35655001d240c6cc4bcb98ISEMPTY^EQ</value>
+        <variable display_value="Catalog Conditions">e0cc42b59f1303002528d4b4232e70f9</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_2c8882759f1303002528d4b4232e708a^id=a74345ec1b35655001d240c6cc4bcb68"/>
+</record_update>

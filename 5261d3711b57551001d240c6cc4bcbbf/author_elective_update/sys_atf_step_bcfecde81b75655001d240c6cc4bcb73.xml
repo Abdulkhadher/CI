@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open a new 'Work Task Flow' form in 'Agent Workspace'</description>
+        <display_name>Open a New Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:57:53</sys_created_on>
+        <sys_id>bcfecde81b75655001d240c6cc4bcb73</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="Wosys work" source="x_845124_wosys_wor">5261d3711b57551001d240c6cc4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wosys work">5261d3711b57551001d240c6cc4bcbbf</sys_scope>
+        <sys_update_name>sys_atf_step_bcfecde81b75655001d240c6cc4bcb73</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:57:59</sys_updated_on>
+        <table>sf_work_task</table>
+        <test display_value="Test ATF Attach">b3cbc1281b75655001d240c6cc4bcbea</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=bcfecde81b75655001d240c6cc4bcb73"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>bcfecde81b75655001d240c6cc4bcb73</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:57:53</sys_created_on>
+        <sys_id>931f4de81b75655001d240c6cc4bcb75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:57:53</sys_updated_on>
+        <value>7b24ceae5304130084acddeeff7b12a3</value>
+        <variable display_value="Form UI">6f2a59a4e7133300b5646ea8c2f6a975</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>bcfecde81b75655001d240c6cc4bcb73</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:57:53</sys_created_on>
+        <sys_id>9f1f4de81b75655001d240c6cc4bcb75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:57:53</sys_updated_on>
+        <value>sf_work_task</value>
+        <variable display_value="Table">bb84ed825320220002c6435723dc3400</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>bcfecde81b75655001d240c6cc4bcb73</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:57:53</sys_created_on>
+        <sys_id>db1f4de81b75655001d240c6cc4bcb75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:57:53</sys_updated_on>
+        <value/>
+        <variable display_value="View">27d4e1c25320220002c6435723dc3486</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_05317cd10b10220050192f15d6673af8^id=bcfecde81b75655001d240c6cc4bcb73"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wosys work">5261d3711b57551001d240c6cc4bcbbf</application>
+        <file_path/>
+        <instance_id>61358c57dbbab7040b9d21c40596197b</instance_id>
+        <instance_name>dev89278</instance_name>
+        <name>sys_atf_step_bcfecde81b75655001d240c6cc4bcb73</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Open a new 'Work Task Flow' form in 'Agent Workspace'</description><display_name>Open a New Form</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-22 06:57:53</sys_created_on><sys_id>bcfecde81b75655001d240c6cc4bcb73</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Open a New Form</sys_name><sys_package display_value="Wosys work" source="x_845124_wosys_wor">5261d3711b57551001d240c6cc4bcbbf</sys_package><sys_policy/><sys_scope display_value="Wosys work">5261d3711b57551001d240c6cc4bcbbf</sys_scope><sys_update_name>sys_atf_step_bcfecde81b75655001d240c6cc4bcb73</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-22 06:57:59</sys_updated_on><table>sf_work_task</table><test display_value="Test ATF Attach">b3cbc1281b75655001d240c6cc4bcbea</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=bcfecde81b75655001d240c6cc4bcb73"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>bcfecde81b75655001d240c6cc4bcb73</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-22 06:57:53</sys_created_on><sys_id>931f4de81b75655001d240c6cc4bcb75</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-22 06:57:53</sys_updated_on><value>7b24ceae5304130084acddeeff7b12a3</value><variable display_value="Form UI">6f2a59a4e7133300b5646ea8c2f6a975</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>bcfecde81b75655001d240c6cc4bcb73</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-22 06:57:53</sys_created_on><sys_id>9f1f4de81b75655001d240c6cc4bcb75</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-22 06:57:53</sys_updated_on><value>sf_work_task</value><variable display_value="Table">bb84ed825320220002c6435723dc3400</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>bcfecde81b75655001d240c6cc4bcb73</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-22 06:57:53</sys_created_on><sys_id>db1f4de81b75655001d240c6cc4bcb75</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-22 06:57:53</sys_updated_on><value/><variable display_value="View">27d4e1c25320220002c6435723dc3486</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_05317cd10b10220050192f15d6673af8^id=bcfecde81b75655001d240c6cc4bcb73"/></record_update>]]></payload>
+        <payload_hash>661790141</payload_hash>
+        <record_name>Open a New Form</record_name>
+        <reverted_from/>
+        <source>5261d3711b57551001d240c6cc4bcbc1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:57:59</sys_created_on>
+        <sys_id>c12f012c1b75655001d240c6cc4bcbc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187081c38380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:57:59</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>0d2f012ccb7565505d5e9c027ab6b5c5</update_guid>
+        <update_guid_history>0d2f012ccb7565505d5e9c027ab6b5c5:661790141,ef1f4de818756550d44036ce14ae0d77:165467420</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 07:00:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>1bbd87be6330422aab3f1ed7c3e29284</sys_id>
+        <sys_metadata>bcfecde81b75655001d240c6cc4bcb73</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="Wosys work" source="x_845124_wosys_wor">5261d3711b57551001d240c6cc4bcbbf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wosys work">5261d3711b57551001d240c6cc4bcbbf</sys_scope>
+        <sys_scope_delete display_value="">9a6df716e26e4fd4b336479aa8815410</sys_scope_delete>
+        <sys_update_name>sys_atf_step_bcfecde81b75655001d240c6cc4bcb73</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_bcfecde81b75655001d240c6cc4bcb73">c12f012c1b75655001d240c6cc4bcbc6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 07:00:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

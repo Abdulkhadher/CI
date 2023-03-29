@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <copied_from/>
+        <description>Adds the following attachments to the current form:
+user.txt</description>
+        <display_name>Add Attachments to Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <step_config display_value="Add Attachments to Form">6932ee40b760330044026848ee11a960</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:53:04</sys_created_on>
+        <sys_id>2cddc9681b75655001d240c6cc4bcbd0</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Add Attachments to Form</sys_name>
+        <sys_package display_value="Wosys work" source="x_845124_wosys_wor">5261d3711b57551001d240c6cc4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wosys work">5261d3711b57551001d240c6cc4bcbbf</sys_scope>
+        <sys_update_name>sys_atf_step_2cddc9681b75655001d240c6cc4bcbd0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 07:45:32</sys_updated_on>
+        <table/>
+        <test display_value="Test ATF Attach">b3cbc1281b75655001d240c6cc4bcbea</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=2cddc9681b75655001d240c6cc4bcbd0"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <encryption_context/>
+        <file_name>user.txt</file_name>
+        <hash>0f1c7b5fe2572ff9d4f04736ff2dc3f26ee8a401c6b6370fb1d05d1b429f9342</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>12042</size_bytes>
+        <size_compressed>820</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:52:37</sys_created_on>
+        <sys_id>9aedc1681b75655001d240c6cc4bcb9e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:52:43</sys_updated_on>
+        <table_name>sys_atf_step</table_name>
+        <table_sys_id>2cddc9681b75655001d240c6cc4bcbd0</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="user.txt" sys_id="9aedc1681b75655001d240c6cc4bcb9e">9aedc1681b75655001d240c6cc4bcb9e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:52:37</sys_created_on>
+        <sys_id>daedc1681b75655001d240c6cc4bcb9e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>7Vlda9swFH0P5D94T3IwNBl7LH4o6zYGY6NZt8cEL77xBI7d2UqyMPrfd+X4S7YsyzRlWaqUQixdHd8r3XOO3e68xNqmkFiuFaRXAbBvePHx1p5cj0c7nAv4TAR760NIfZjDKk58m6SHdOnTFaNx5CUHwoOD5Mrz/bstJAeb0IhBEnnhkh0ewE1gDQlEK1h8mYszAQddhjRlizLI5eA8pQI2BfaJbiizX89ms3zsV3YffrH/SUOwcSiC38yeTP6MRxZ+sBgarWOb3Hs/QrA+exuwiOXgL3GwKF7pLU0fQu/w3Qu3YJMII8iEIwrL31MIfY3lQl0SnHlRnvU23kZMDVbuRQXEz4JlpbiK9GvBfKAjFkLYQMRIM0m+hI9VIEFyn9+z2QJZLiXAMYw3wLtoFfuQ9wEHdIhLHH6czeDqCOs5FLOYtABVbkRx3scw8dA7gObxPtv0CuRxPHrkdR57XNX/q+y0XGtm+GD4cI58KBpU2u95DF3bedwr7OSiJU7CpJxNIqkMrQytRFqdM4X0eVQgZrEnJ1f2hbeAyC5JZG+ANk+bP0N5i2eGV4ScJ411WTydPpnJAsQT2SxgXSKjb7AXdnAnslXK4T4a6bCWf459Kidb9UyY07nN5rJMeZGTWgkDFKtR63QqMFnrEbhPWXR1pVs0WmFaLayxUtKrmiJlhMoI1f8kVEMeLdTPA10PIG3F0hC8AowL2PUF6Jxcv44lffU1+V6i45JWiVkPYoW1HStjxRrr6eNkd/YdLMY1PTwWQOQ8loFo6LWKyTLIJpdbWi7KelvdjZYbLR+i5ZjqADnH6B5Fr0U0lUqp6zitI+0cXkvda4GCwOO4VONxXEPma6j6So/bdz5an2+yROhL9ZLuj87uyPbGmMfZmofinSD0UmacxDiJcZKX7SRY4PPZSIeJVMnV1b0aFQ7hGY3FcsjidHJU3BXryO97csXrccHsLF+aBTbhsuZBDAFC/ce6Vr+pzfSCbPONsc1CX4xtGts0tlm6i+b7mDG7f2l2A43rQv8jZEzMmJgxMWNiF2liKr9SWkdJYV2DyV+ZND3lL8IPE9sKLwAA</data>
+        <length>1080</length>
+        <position>1</position>
+        <sys_attachment display_value="user.txt" sys_id="9aedc1681b75655001d240c6cc4bcb9e">9aedc1681b75655001d240c6cc4bcb9e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:52:37</sys_created_on>
+        <sys_id>5eedc1681b75655001d240c6cc4bcb9e</sys_id>
+    </sys_attachment_doc>
+</record_update>

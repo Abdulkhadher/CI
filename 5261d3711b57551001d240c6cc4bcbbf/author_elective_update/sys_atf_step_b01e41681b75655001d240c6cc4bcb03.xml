@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Submit the Record Producer and confirm submission to server</description>
+        <display_name>Submit Record Producer (SP)</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <step_config display_value="Submit Record Producer (SP)">7c69d2788743030070870cf888cb0b5f</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:53:25</sys_created_on>
+        <sys_id>b01e41681b75655001d240c6cc4bcb03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit Record Producer (SP)</sys_name>
+        <sys_package display_value="Wosys work" source="x_845124_wosys_wor">5261d3711b57551001d240c6cc4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wosys work">5261d3711b57551001d240c6cc4bcbbf</sys_scope>
+        <sys_update_name>sys_atf_step_b01e41681b75655001d240c6cc4bcb03</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:53:25</sys_updated_on>
+        <table/>
+        <test display_value="Test ATF Attach">b3cbc1281b75655001d240c6cc4bcbea</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=b01e41681b75655001d240c6cc4bcb03"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b01e41681b75655001d240c6cc4bcb03</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:53:25</sys_created_on>
+        <sys_id>0e1ec9a81b75655001d240c6cc4bcb8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:53:25</sys_updated_on>
+        <value>form_submitted_to_server</value>
+        <variable display_value="Assert Type">3c2ad2788743030070870cf888cb0b0c</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wosys work">5261d3711b57551001d240c6cc4bcbbf</application>
+        <file_path/>
+        <instance_id>61358c57dbbab7040b9d21c40596197b</instance_id>
+        <instance_name>dev89278</instance_name>
+        <name>sys_atf_step_b01e41681b75655001d240c6cc4bcb03</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Submit the Record Producer and confirm submission to server</description><display_name>Submit Record Producer (SP)</display_name><inputs/><mugshots_cache_json/><notes/><order>3</order><step_config display_value="Submit Record Producer (SP)">7c69d2788743030070870cf888cb0b5f</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-22 06:53:25</sys_created_on><sys_id>b01e41681b75655001d240c6cc4bcb03</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Submit Record Producer (SP)</sys_name><sys_package display_value="Wosys work" source="x_845124_wosys_wor">5261d3711b57551001d240c6cc4bcbbf</sys_package><sys_policy/><sys_scope display_value="Wosys work">5261d3711b57551001d240c6cc4bcbbf</sys_scope><sys_update_name>sys_atf_step_b01e41681b75655001d240c6cc4bcb03</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-22 06:53:25</sys_updated_on><table/><test display_value="Test ATF Attach">b3cbc1281b75655001d240c6cc4bcbea</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=b01e41681b75655001d240c6cc4bcb03"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b01e41681b75655001d240c6cc4bcb03</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-22 06:53:25</sys_created_on><sys_id>0e1ec9a81b75655001d240c6cc4bcb8f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-22 06:53:25</sys_updated_on><value>form_submitted_to_server</value><variable display_value="Assert Type">3c2ad2788743030070870cf888cb0b0c</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>788986268</payload_hash>
+        <record_name>Submit Record Producer (SP)</record_name>
+        <reverted_from/>
+        <source>5261d3711b57551001d240c6cc4bcbc1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:53:25</sys_created_on>
+        <sys_id>ca1ec9a81b75655001d240c6cc4bcb91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187081808ce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:53:25</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>061ec9a84575655039ac50942144b491</update_guid>
+        <update_guid_history>061ec9a84575655039ac50942144b491:788986268</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 06:56:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>29ff405ff02a4826bb5bbb35f4fae611</sys_id>
+        <sys_metadata>b01e41681b75655001d240c6cc4bcb03</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit Record Producer (SP)</sys_name>
+        <sys_package display_value="Wosys work" source="x_845124_wosys_wor">5261d3711b57551001d240c6cc4bcbbf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wosys work">5261d3711b57551001d240c6cc4bcbbf</sys_scope>
+        <sys_scope_delete display_value="">9a6df716e26e4fd4b336479aa8815410</sys_scope_delete>
+        <sys_update_name>sys_atf_step_b01e41681b75655001d240c6cc4bcb03</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_b01e41681b75655001d240c6cc4bcb03">ca1ec9a81b75655001d240c6cc4bcb91</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 06:56:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
