@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Submit the Record Producer and confirm submission canceled in browser</description>
+        <display_name>Submit Record Producer (SP)</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <step_config display_value="Submit Record Producer (SP)">7c69d2788743030070870cf888cb0b5f</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 07:05:25</sys_created_on>
+        <sys_id>d0d0dd6c1b75655001d240c6cc4bcb8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit Record Producer (SP)</sys_name>
+        <sys_package display_value="Wosys work" source="x_845124_wosys_wor">5261d3711b57551001d240c6cc4bcbbf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wosys work">5261d3711b57551001d240c6cc4bcbbf</sys_scope>
+        <sys_update_name>sys_atf_step_d0d0dd6c1b75655001d240c6cc4bcb8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 07:05:25</sys_updated_on>
+        <table/>
+        <test display_value="Test Atf RP">2dd1896c1b35655001d240c6cc4bcb0e</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=d0d0dd6c1b75655001d240c6cc4bcb8a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d0d0dd6c1b75655001d240c6cc4bcb8a</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 07:05:25</sys_created_on>
+        <sys_id>35d0dd6c1b75655001d240c6cc4bcbb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 07:05:25</sys_updated_on>
+        <value>form_submission_cancelled_in_browser</value>
+        <variable display_value="Assert Type">3c2ad2788743030070870cf888cb0b0c</variable>
+    </sys_variable_value>
+</record_update>
